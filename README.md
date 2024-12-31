@@ -20,11 +20,7 @@ An advanced parking management solution that uses computer vision to identify fr
 - **Stripe Payment Gateway**: Handles payments and generates QR code tickets.
 - **Frontend**: Built with HTML, CSS, and JavaScript folders located in the `public` folder.
 
-## Demo Video
 
-## Demo Video
-
-[Click here to watch the demo video](./public/processed_parking.mp4)
 
 
 
