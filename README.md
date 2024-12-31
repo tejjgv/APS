@@ -36,7 +36,7 @@ An advanced parking management solution that uses computer vision to identify fr
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/akshatjainei/APS.git
+git clone https://github.com/tejjgv/APS
 ```
 
 ### Computer Vision Model Setup and Redis 
